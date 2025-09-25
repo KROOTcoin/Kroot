@@ -1,0 +1,7 @@
+- Solscan (mint): https://solscan.io/token/6uDcT3y3HFoJK9aMvwCDKJBu13qTS8GYazqH7czS96sv
+- Explorer alt: https://explorer.solana.com/address/6uDcT3y3HFoJK9aMvwCDKJBu13qTS8GYazqH7czS96sv?cluster=mainnet
+- Birdeye: https://birdeye.so/token/6uDcT3y3HFoJK9aMvwCDKJBu13qTS8GYazqH7czS96sv?chain=solana
+- PinkSale: https://www.pinksale.finance/solana/launchpad/6zss1EqcSDt2DcZSfZchscsbqmZhAWEkBBtSKaUVzZiZ
+- Website: https://krootcoin.xyz
+- Telegram: (add)
+- X/Twitter: (add)
