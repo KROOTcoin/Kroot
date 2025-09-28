@@ -1,6 +1,11 @@
 {
   "name": "KROOT",
   "symbol": "KROOT",
-  "decimals": 9,
-  "logo": "https://krootcoin.xyz/path/to/kroot-logo-200.png"
+  "description": "KROOT is a meme-themed SPL token on Solana.",
+  "image": "https://raw.githubusercontent.com/KROOTcoin/Kroot/main/kroot-logo-512.png",
+  "extensions": {
+    "website": "https://krootcoin.xyz",
+    "twitter": "https://x.com/KROOTcoin",
+    "telegram": "https://t.me/KROOTchat"
+  }
 }
